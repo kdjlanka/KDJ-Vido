@@ -1,6 +1,4 @@
-**KDJ Vido - AI Powered Speech to Text**
-
-**Release v1.0.0**
+## KDJ Vido - AI Powered Speech to Text
 
 We are excited to announce the first official release of **KDJ Vido**, an AI-powered tool designed for multilingual video summarization and speech-to-text conversion. This application provides a user-friendly interface to process videos, transcribe audio, translate content, and generate summaries in multiple languages.
 
